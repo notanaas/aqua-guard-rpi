@@ -1,0 +1,9 @@
+{
+    "serverUrl": "http://<your-server-ip>:3000",
+    "piPort": 5000,
+    "sensorUpdateInterval": 10000,
+    "motor": {
+        "inPin": 17,
+        "outPin": 27
+    }
+}
